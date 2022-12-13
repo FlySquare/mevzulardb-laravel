@@ -681,5 +681,119 @@ class QuestionSeeder extends Seeder
             'answer_second' => '7655',
         ]);
         //Muharrem İnce
+        //Cem Uzan
+
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Türkiye\'ye giremiyorken nasıl 2023 seçimlerinde aday olacaksınız? Aday olamazsanız kimi aday olarak göstereceksiniz?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '306',
+        ]);
+        questions::create([
+            'questioner' => 'Oğuzhan Uğur',
+            'speaker_id' => '4',
+            'question' => 'Siyasi yasağınız var mı?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '338',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Türkiye\'nin araplaşması hakkında ne düşünüyorsunuz? Vatandaşlık alan kişiler ile alakalı nasıl bir method uygulayacaksınız? Atanamayan öğretmenler ile alakalı nasıl bir yol izleyeceksiniz?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '412',
+        ]);
+        questions::create([
+            'questioner' => 'Oğuzhan Uğur',
+            'speaker_id' => '4',
+            'question' => 'Uğur dündarı istediklerinizi söylemedi diye programdan kovdunuz mu?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '578',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Türkiye\nin kalkınması için elinizdeki projeler nelerdir?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '851',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Milletvekili maaşı memur maaşı düzeyine getirilmeli mi?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1073',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Yeniden Doğuş partisinin delegelerini satın alarak mı partinizi kurdunuz?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1106',
+        ]);
+        questions::create([
+            'questioner' => 'Gülsüm Bülbül',
+            'speaker_id' => '4',
+            'question' => 'Hükümet hangi şartlarda değişir? Ekonomik krizin sandığa yansıyacağını düşünüyor musunuz? Olası iktidar değişiminde iktidarın herhangi bir alanında görev almak ister misiniz? Tekrar girişimlerde bulunup iş yapmayı düşünür müsünüz?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1223',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Yüzlerce şirketinize el konulduğu halde nasıl hala çok güçlüsünüz? Bakanların devletle ilişkili şirketleri olacak mı? İktidara geldiğinizde zengine oynayıp fakire verecek misiniz?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1292',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Ülkeye dönmek için bir parti veya siyasetçi ile pazarlığınız oldu mu? Birisi size ulaştı mı?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1408',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Sizi geçmişte fransaya ışınlayan(kaçıran) dostlarınızı açıklayacak mısınız?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1465',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Geçmişte hisselerinizi alıp mağdur olan halk için bilgilendirme yapacak mısınız?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1517',
+        ]);
+        questions::create([
+            'questioner' => 'Burcu',
+            'speaker_id' => '4',
+            'question' => 'İktidara geldiğinizde SMA hastalıklı çocuklar için bir tedavi bütçesi açılacak mı?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1702',
+        ]);
+        questions::create([
+            'questioner' => 'İsimsiz',
+            'speaker_id' => '4',
+            'question' => 'Mardin şehrini kumarhane şehri yapmak sosyal bir kriz oluşturmaz mı?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1820',
+        ]);
+        questions::create([
+            'questioner' => 'Serkan Tanyıldızı',
+            'speaker_id' => '4',
+            'question' => 'Siyasi ve üst düzey bürokratlara sim-card hediye edip onları dinlettiniz mi?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '2034',
+        ]);
+        questions::create([
+            'questioner' => 'Serkan Tanyıldızı',
+            'speaker_id' => '4',
+            'question' => 'Sakıp Sabancı ile hisseleri almak için görüntü ve ses kayıtları ile tehtit ettiniz mi?',
+            'answer_video' => 'kdTYTU_bBWU',
+            'answer_second' => '1975',
+        ]);
     }
 }
